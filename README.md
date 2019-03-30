@@ -1,6 +1,6 @@
-# coursera-deeplearning
-deeplearning.ai - Deep Learning by Andrew Ng
+See official repository: https://github.com/rmarquis/coursera-deeplearning
 
+deeplearning.ai - Deep Learning by Andrew Ng
 Coursera: [Deep Learning](DeepLearning.ipynb)
 
 ## Notes and Summary
@@ -13,7 +13,3 @@ The very large datasets, models and pre-trained models files are not included.
 Other review notes are available at:
 * https://github.com/mbadry1/DeepLearning.ai-Summary
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
-
-## Certificate
-
-[My Course Certificate](Coursera%2046MFP45CUWMH.pdf)
